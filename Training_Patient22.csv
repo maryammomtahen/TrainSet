@@ -1,5 +1,5 @@
-pixel,reflectance1,reflectance2,absorption1,absorption2,side,mm
-1,6.36E-05,1.24E-06,0.505726527,0.374570337,0,pateint 22
+pixel,reflectance1,reflectance2,absorption1,absorption2,side,
+1,6.36E-05,1.24E-06,0.505726527,0.374570337,0,
 2,6.15E-05,1.29E-06,0.505726527,0.218056035,0,
 3,5.94E-05,1.28E-06,0.505726527,0.597839452,0,
 4,5.75E-05,1.33E-06,0.505726527,0.428542193,0,
