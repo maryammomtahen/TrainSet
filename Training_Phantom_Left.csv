@@ -1,5 +1,5 @@
-pixel,reflectance1,reflectance2,absorption1,absorption2,side,mm
-1,0.000105625,1.54E-06,0.54219746,1,0,phantom left
+pixel,reflectance1,reflectance2,absorption1,absorption2,side,
+1,0.000105625,1.54E-06,0.54219746,1,0,
 2,0.000101539,1.76E-06,0.54219746,0.677224258,0,
 3,9.80E-05,1.75E-06,0.54219746,0.771234016,0,
 4,9.43E-05,1.91E-06,0.54219746,0.589425909,0,
