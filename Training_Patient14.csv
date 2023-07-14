@@ -1,5 +1,5 @@
-﻿pixel,reflectance1,reflectance2,absorption1,absorption2,side,mm
-1,4.42E-05,7.31E-07,0.010845138,0.778471938,0,patient 14
+﻿pixel,reflectance1,reflectance2,absorption1,absorption2,side,
+1,4.42E-05,7.31E-07,0.010845138,0.778471938,0,
 2,4.26E-05,6.92E-07,0.010845138,1,0,
 3,4.11E-05,7.39E-07,0.010845138,0.891919876,0,
 4,3.97E-05,7.69E-07,0.010845138,0.85363427,0,
