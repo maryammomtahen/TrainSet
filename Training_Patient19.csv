@@ -1,4 +1,4 @@
-pixel,reflectance1,reflectance2,absorption1,absorption2,side,mm
+pixel,reflectance1,reflectance2,absorption1,absorption2,side,
 1,2.16E-05,1.49E-07,0.00578358,0.880631149,2,
 2,2.09E-05,2.07E-07,0.00578358,0,2,
 3,2.01E-05,1.74E-07,0.00578358,0.623550639,2,
